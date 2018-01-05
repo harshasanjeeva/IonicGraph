@@ -1,0 +1,8 @@
+{
+  "name": "ionic2-charts",
+  "app_id": "b18bfaac",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
